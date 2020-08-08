@@ -27,10 +27,4 @@ public class DecodeEncode {
 		return null;
 
 	}
-
-	public static void main(String args[]) {
-		decrypt(new int[] { 72, 33, -73, 84, -12, -3, 13, -13, -68 });
-		encrypt("Hello");
-		encrypt("Sunshine");
-	}
 }
